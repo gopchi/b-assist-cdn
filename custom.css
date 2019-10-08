@@ -1,3 +1,7 @@
+/* Webflow slider customization */
+.w-slider-dot { border: 1px solid #ff0034; } .w-slider-dot.w-active { background: #ff0034; border: 2px solid #ccc }
+
+/* Materialize cusomization */
 label { font-weight: normal; }
 label.cm-checkbox {
 	font-weight: 400;
