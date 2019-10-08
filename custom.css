@@ -1,0 +1,16 @@
+label { font-weight: normal; }
+label.cm-checkbox {
+	font-weight: 400;
+    color: #333;
+    font-size: 14px;
+}
+
+[type="checkbox"]+span:not(.lever) {
+    padding-left:25px;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+.cm-datepciker-icon {
+	right: -18px;
+}
